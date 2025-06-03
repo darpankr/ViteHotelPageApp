@@ -1,11 +1,14 @@
-import react from 'react';
 
-function BookingPage() {
+
+import React from 'react'
+
+const BookingPage = () => {
   return (
     <div>
-      <h1>Darpan</h1>
+      Darpan
     </div>
-  );
+  )
 }
 
-export default BookingPage();
+export default BookingPage
+
